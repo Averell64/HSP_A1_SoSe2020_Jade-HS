@@ -3,11 +3,11 @@
 /*
  Hello World Programm
  Version 1.0
- letzte Aenderung 17.09.2019
- Kai Mecke
+ letzte Aenderung 19.03.2020
+ Lukas Roeger
 */
 
-namespace Hello_World_Mecke
+namespace Hello_World_Soost
 {
     class Program
     {
