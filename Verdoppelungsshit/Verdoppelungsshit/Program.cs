@@ -8,6 +8,7 @@ namespace Verdoppelungsshit
         {
             Double z = Convert.ToInt32(Console.ReadLine());
 
+
             while(true)
             {
                 double b;
