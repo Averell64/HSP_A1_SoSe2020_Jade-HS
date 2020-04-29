@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Dialogfester_Test
@@ -42,14 +35,14 @@ namespace Dialogfester_Test
             get; private set;
         }
 
-     
+
 
         public string WDM
         {
             get; private set;
         }
 
-        
+
 
         double Durchmesser, Laenge;
         public Kreisprofil()
@@ -69,19 +62,18 @@ namespace Dialogfester_Test
             {
                 Visible = false;
                 string D, L;
-                
+
                 D = textBox1.Text;
                 L = textBox2.Text;
-                
+
 
                 Durchmesser = Convert.ToDouble(D.Replace(".", ","));
                 Laenge = Convert.ToDouble(L.Replace(".", ","));
-                
 
                 //Abruf Unterprogramm Fläche + Volumen
-                Volumen = String.Format("{0:0.00}", ((Laenge* Math.PI* Math.Pow(Durchmesser,2)/4)));
+                Volumen = String.Format("{0:0.00}", ((Laenge * Math.PI * Math.Pow(Durchmesser, 2) / 4)));
 
-                Flaeche = String.Format("{0:0.00}", ((Math.PI*Math.Pow(Durchmesser,2)/4)));
+                Flaeche = String.Format("{0:0.00}", ((Math.PI * Math.Pow(Durchmesser, 2) / 4)));
 
                 //Abruf Unterprogramm Schwerpunkt X
                 SchwerpunktX = String.Format("{0:0.00}", (0));
@@ -95,11 +87,9 @@ namespace Dialogfester_Test
                 //Abruf Unterprogramm Flächenmoment 
                 FLM2 = String.Format("{0:0.00}", ((Math.PI * Math.Pow(Durchmesser, 3)) / 64));
 
-               
+
                 //Abruf Widerstandsmoment X
                 WDM = String.Format("{0:0.00}", ((Math.PI * Math.Pow(Durchmesser, 3)) / (32)));
-
-               
 
                 Form AusgabeK = new AusgabeKreis(Volumen, Flaeche, SchwerpunktX, SchwerpunktY, SchwerpunktZ, FLM2, WDM);
                 AusgabeK.ShowDialog();
