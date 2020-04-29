@@ -117,34 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="pictureBox1.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        R0lGODlhPAGNAIQAAAAAAP///yYWDTEfFSMRCEIiEiITC/OFT+yNXk8wIH9NNDokGfaZa7VyUX1RO1E3
-        KaBtVPZ4O/Z4PIFLMZpcPkMqHkBAQBUVFf///wAAAAAAAAAAAAAAAAAAAAAAAAAAACH/C05FVFNDQVBF
-        Mi4wAwEBAAAh+QQBAAAYACwAAAAAPAGNAAAIxAAxCBxIsKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzI
-        saPHjyBDihxJsqTJkyhTqlzJsqXLlzBjypxJs6bNmzhz6tzJs6fPn0CDCh1KtKjRo0iTKl3KtKnTp1Cj
-        Sp1KtarVq1izat3KtavXr2DDih1LtqzZs2jTql3Ltq3bt3Djyp1Lt67du3jz6t3Lt6/fv4ADCx5MuLDh
-        w4gTK17MuLHjx5AjS55MubJluQoIaN7MubPnz6BDix5NurTp06hTq17N+vT/BawUJESYTbu27du4c+ve
-        zbu379/AgwsfTrz4bwcArsY2zry58+fQo0uX3gDBAKvLp2vfzr27d+/VGVynmv27+fPo058PL568bPXw
-        48uf75t9e6nl6evfz/+7/ftQ5dffgAQWONx/ADoloIEMNuhgBAgmyNSCD1Zo4XwRSqgUhRd26CF4CDAg
-        4ogijjfhex+mqKJ2GZbYFIcrxigjcC26uBSMM+aoo2012pgUjjsGOWOPPh4FpJBIpkhkkUUdmeSTFi7J
-        5FBOQmklg1JOGVSVV3bZX5Za/sSll2RiGCKJaKapoZgolulmgWCOaOKWbb5p535xykllnXf2GV+eIz4g
-        fNSYfhYaHaAiQsAAnYY2mh6iDCjKqKOUgqjmpWhKChShlXb6G6SasunpqIeeiSmmofrEKams8mjqqWqm
-        2tOqrdYK6qKb8lnrrrzdOimvwPb6KqyZ4ipqsMjm5muuyTbrKrGXysoTrc42uuyx1TZ7raq6Zrvrtj1Z
-        0K23rYL/y9MCBhSg7rrstuvuu/DGK++89NZr77345qvvvvzaO8Gw0CZq7E8GHGDwwQgnrPDCDDfs8MMQ
-        RyzxxBRXbPHFGE+cQMBpSttTwRmHLPLIJJds8sknb8zxiB5/jPLLMMcs88w0H6Dyyi27XPPOPPfs88w3
-        B5yzzj8XbfTRSDMcNLFDE53001BHHfPSpzbttNRYZ621xkIPXBTIW4ct9tg2Q2u1T2CTrfbaSFPdsddG
-        pc323HTT7DaJZxNc9958v3y3wE3J3ffghFP8d95ACV744owrfDfiiTcu+eQHuw155JRnvjjVl2Ou+ed8
-        L92556CXznbQo5Nu+upi35y66qzHU461yq/DLvvtSW9cu+249/5zArsDVYEBxBdv/PHIJ6/88sw37/zz
-        0Ecv/fTUV2999AJcpv323Hfv/ffghy/++OSXb/756Kev/vrst+/++/DHL//8QvTXb//9+Oev//789+//
-        /wAMoAAHSMACGvCACEygAhfIwAY68IEQjKAEJ0jBClrwghjMoAY3yMEOevCDIAyhCLsSEAA7
-</value>
-  </data>
-  <metadata name="label7.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
 </root>
