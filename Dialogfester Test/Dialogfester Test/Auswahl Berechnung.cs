@@ -20,7 +20,7 @@ namespace Dialogfester_Test
             Visible = false;
             Kreisprofil frmKreis = new Kreisprofil();
             frmKreis.ShowDialog();
-
+            
         }
         public void button3_Click(object sender, EventArgs e)
         {

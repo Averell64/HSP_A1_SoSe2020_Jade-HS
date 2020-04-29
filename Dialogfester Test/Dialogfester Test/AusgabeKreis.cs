@@ -1,4 +1,11 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Dialogfester_Test
@@ -12,9 +19,9 @@ namespace Dialogfester_Test
         private string KSchwerpunktZ;
         private string KFLM2;
         private string KWDM;
+       
 
-
-        public AusgabeKreis(string Volumen, string Flaeche, string SchwerpunktX, string SchwerpunktY, string SchwerpunktZ, string FLM2, string WDM)
+        public AusgabeKreis(string Volumen, string Flaeche, string SchwerpunktX, string SchwerpunktY, string SchwerpunktZ, string FLM2,string WDM)
         {
             InitializeComponent();
             KVolumen = Volumen;
@@ -45,10 +52,10 @@ namespace Dialogfester_Test
             }
         }
 
+        
+     
 
-
-
-
+      
 
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
@@ -104,6 +111,9 @@ namespace Dialogfester_Test
         {
 
         }
+        
+
+        
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
