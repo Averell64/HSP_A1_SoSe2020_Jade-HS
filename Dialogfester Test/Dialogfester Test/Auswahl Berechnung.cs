@@ -18,8 +18,9 @@ namespace Dialogfester_Test
         public void button2_Click(object sender, EventArgs e)
         {
             Visible = false;
-            Console.WriteLine("Hallo");
-            Console.ReadKey();
+            Kreisprofil frmKreis = new Kreisprofil();
+            frmKreis.ShowDialog();
+            
         }
         public void button3_Click(object sender, EventArgs e)
         {

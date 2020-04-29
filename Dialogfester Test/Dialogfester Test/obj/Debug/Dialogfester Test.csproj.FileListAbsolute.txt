@@ -1,0 +1,13 @@
+C:\Users\Milla\Documents\GitHub\HSP_A1_SoSe2020_Jade-HS\Dialogfester Test\Dialogfester Test\bin\Debug\Dialogfester Test.exe.config
+C:\Users\Milla\Documents\GitHub\HSP_A1_SoSe2020_Jade-HS\Dialogfester Test\Dialogfester Test\bin\Debug\Dialogfester Test.exe
+C:\Users\Milla\Documents\GitHub\HSP_A1_SoSe2020_Jade-HS\Dialogfester Test\Dialogfester Test\bin\Debug\Dialogfester Test.pdb
+C:\Users\Milla\Documents\GitHub\HSP_A1_SoSe2020_Jade-HS\Dialogfester Test\Dialogfester Test\obj\Debug\Dialogfester Test.csprojAssemblyReference.cache
+C:\Users\Milla\Documents\GitHub\HSP_A1_SoSe2020_Jade-HS\Dialogfester Test\Dialogfester Test\obj\Debug\Dialogfester_Test.AusgabeRechteck.resources
+C:\Users\Milla\Documents\GitHub\HSP_A1_SoSe2020_Jade-HS\Dialogfester Test\Dialogfester Test\obj\Debug\Dialogfester_Test.Auswahl_Berechnung.resources
+C:\Users\Milla\Documents\GitHub\HSP_A1_SoSe2020_Jade-HS\Dialogfester Test\Dialogfester Test\obj\Debug\Dialogfester_Test.Rechteck.resources
+C:\Users\Milla\Documents\GitHub\HSP_A1_SoSe2020_Jade-HS\Dialogfester Test\Dialogfester Test\obj\Debug\Dialogfester Test.csproj.GenerateResource.cache
+C:\Users\Milla\Documents\GitHub\HSP_A1_SoSe2020_Jade-HS\Dialogfester Test\Dialogfester Test\obj\Debug\Dialogfester Test.csproj.CoreCompileInputs.cache
+C:\Users\Milla\Documents\GitHub\HSP_A1_SoSe2020_Jade-HS\Dialogfester Test\Dialogfester Test\obj\Debug\Dialogfester Test.exe
+C:\Users\Milla\Documents\GitHub\HSP_A1_SoSe2020_Jade-HS\Dialogfester Test\Dialogfester Test\obj\Debug\Dialogfester Test.pdb
+C:\Users\Milla\Documents\GitHub\HSP_A1_SoSe2020_Jade-HS\Dialogfester Test\Dialogfester Test\obj\Debug\Dialogfester_Test.Kreisprofil.resources
+C:\Users\Milla\Documents\GitHub\HSP_A1_SoSe2020_Jade-HS\Dialogfester Test\Dialogfester Test\obj\Debug\Dialogfester_Test.AusgabeKreis.resources
