@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Milla\\.nuget\\packages\\": {}
+    "C:\\Users\\rikde\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Milla\\Documents\\GitHub\\HSP_A1_SoSe2020_Jade-HS\\Sprint1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\rikde\\Documents\\HSP GitHub\\HSP_A1_SoSe2020_Jade-HS\\Sprint1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\Milla\\Documents\\GitHub\\HSP_A1_SoSe2020_Jade-HS\\Sprint1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "packagesPath": "C:\\Users\\Milla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Milla\\Documents\\GitHub\\HSP_A1_SoSe2020_Jade-HS\\Sprint1\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "projectPath": "C:\\Users\\rikde\\Documents\\HSP GitHub\\HSP_A1_SoSe2020_Jade-HS\\Sprint1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\rikde\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rikde\\Documents\\HSP GitHub\\HSP_A1_SoSe2020_Jade-HS\\Sprint1\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Milla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rikde\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
