@@ -24,6 +24,9 @@ namespace Dialogfester_Test
         }
         public void button3_Click(object sender, EventArgs e)
         {
+            Visible = false;
+            Hohlprofil_R frmHohlprofil_R = new Hohlprofil_R();
+            frmHohlprofil_R.ShowDialog();
 
         }
         public void button4_Click(object sender, EventArgs e)
