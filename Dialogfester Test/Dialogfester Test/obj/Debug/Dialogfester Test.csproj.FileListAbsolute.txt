@@ -25,3 +25,4 @@ C:\Users\rikde\Documents\HSP GitHub\HSP_A1_SoSe2020_Jade-HS\Dialogfester Test\Di
 C:\Users\rikde\Documents\HSP GitHub\HSP_A1_SoSe2020_Jade-HS\Dialogfester Test\Dialogfester Test\obj\Debug\Dialogfester Test.csproj.CoreCompileInputs.cache
 C:\Users\rikde\Documents\HSP GitHub\HSP_A1_SoSe2020_Jade-HS\Dialogfester Test\Dialogfester Test\obj\Debug\Dialogfester Test.exe
 C:\Users\rikde\Documents\HSP GitHub\HSP_A1_SoSe2020_Jade-HS\Dialogfester Test\Dialogfester Test\obj\Debug\Dialogfester Test.pdb
+C:\Users\Milla\Documents\GitHub\HSP_A1_SoSe2020_Jade-HS\Dialogfester Test\Dialogfester Test\obj\Debug\Dialogfester_Test.Properties.Resources.resources

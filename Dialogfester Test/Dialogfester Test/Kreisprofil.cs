@@ -131,6 +131,16 @@ namespace Dialogfester_Test
 
         }
 
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Kreisprofil_Load(object sender, EventArgs e)
+        {
+           
+        }
+
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
 
