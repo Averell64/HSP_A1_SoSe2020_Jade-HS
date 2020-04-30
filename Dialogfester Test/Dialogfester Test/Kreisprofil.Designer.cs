@@ -40,6 +40,8 @@
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // button1
@@ -64,7 +66,7 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(60, 519);
+            this.textBox1.Location = new System.Drawing.Point(70, 614);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(925, 38);
             this.textBox1.TabIndex = 2;
@@ -72,7 +74,7 @@
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(70, 711);
+            this.textBox2.Location = new System.Drawing.Point(70, 778);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(925, 38);
             this.textBox2.TabIndex = 3;
@@ -81,7 +83,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(54, 453);
+            this.label1.Location = new System.Drawing.Point(64, 556);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(694, 32);
             this.label1.TabIndex = 4;
@@ -90,7 +92,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(64, 632);
+            this.label2.Location = new System.Drawing.Point(64, 688);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(598, 32);
             this.label2.TabIndex = 5;
@@ -99,7 +101,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(1030, 525);
+            this.label3.Location = new System.Drawing.Point(1030, 620);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(61, 32);
             this.label3.TabIndex = 6;
@@ -109,7 +111,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(1030, 717);
+            this.label4.Location = new System.Drawing.Point(1030, 784);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(61, 32);
             this.label4.TabIndex = 7;
@@ -118,7 +120,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(89, 106);
+            this.label5.Location = new System.Drawing.Point(103, 89);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(182, 32);
             this.label5.TabIndex = 8;
@@ -127,17 +129,26 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(368, 154);
+            this.label6.Location = new System.Drawing.Point(435, 194);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(95, 32);
             this.label6.TabIndex = 9;
             this.label6.Text = "Länge";
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(-3, -2);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(1655, 1110);
+            this.pictureBox1.TabIndex = 10;
+            this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click_2);
+            // 
             // Kreisprofil
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(1651, 1045);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
@@ -149,9 +160,11 @@
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
+            this.Controls.Add(this.pictureBox1);
             this.Name = "Kreisprofil";
             this.Text = "Kreisprofil";
             this.Load += new System.EventHandler(this.Kreisprofil_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -170,5 +183,6 @@
         private System.ComponentModel.BackgroundWorker backgroundWorker1;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
