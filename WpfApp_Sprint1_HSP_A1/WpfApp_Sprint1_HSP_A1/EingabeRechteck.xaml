@@ -1,0 +1,34 @@
+﻿<Window x:Class="WpfApp_Sprint1_HSP_A1.EingabeRechteck"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp_Sprint1_HSP_A1"
+        mc:Ignorable="d"
+        Title="Berechnen" Height="532" Width="539" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Button Content="Hauptmenü" Margin="0,0,50,49" Click="Button_Click" HorizontalAlignment="Right" Width="178" Height="50" VerticalAlignment="Bottom" Cursor="Hand"/>
+        <Button Content="Berechnen" HorizontalAlignment="Left" Height="50" Margin="50,0,0,49" VerticalAlignment="Bottom" Width="178" Click="Button_Click_1" IsCancel="True" Cursor="Hand"/>
+        <Label Content="Geben Sie die Breite des Rechtecks an:" HorizontalAlignment="Left" Height="32" Margin="25,147,0,0" VerticalAlignment="Top" Width="263"/>
+        <Label Content="Breite = " HorizontalAlignment="Left" Margin="25,179,0,216" Width="52" RenderTransformOrigin="0.454,3.236"/>
+        <TextBox x:Name="Breite" HorizontalAlignment="Left" Height="28" Margin="82,179,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="360" TextChanged="TextBox_TextChanged" VerticalContentAlignment="Center"/>
+        <Label Content="mm" HorizontalAlignment="Left" Height="24" Margin="453,179,0,0" VerticalAlignment="Top" Width="68"/>
+        <Label Content="Geben Sie die Länge des Rechtecks an:" HorizontalAlignment="Left" Height="32" Margin="25,223,0,0" VerticalAlignment="Top" Width="263"/>
+        <Label Content="Länge = " HorizontalAlignment="Left" Margin="25,255,0,136" Width="52" RenderTransformOrigin="0.454,3.236"/>
+        <TextBox x:Name="Länge" HorizontalAlignment="Left" Height="28" Margin="82,255,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="360" TextChanged="TextBox_TextChanged_1" VerticalContentAlignment="Center"/>
+        <Label Content="mm" HorizontalAlignment="Left" Height="24" Margin="453,255,0,0" VerticalAlignment="Top" Width="68"/>
+        <Label Content="Geben Sie die Stärke des Rechtecks an:" HorizontalAlignment="Left" Height="32" Margin="25,308,0,0" VerticalAlignment="Top" Width="263"/>
+        <Label Content="Stärke = " HorizontalAlignment="Left" Margin="25,340,0,55" Width="52" RenderTransformOrigin="0.454,3.236"/>
+        <TextBox x:Name="Stärke" HorizontalAlignment="Left" Height="28" Margin="82,340,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="360" TextChanged="TextBox_TextChanged_2" VerticalContentAlignment="Center"/>
+        <Label Content="mm" HorizontalAlignment="Left" Height="24" Margin="453,340,0,0" VerticalAlignment="Top" Width="68"/>
+        <Image Height="122" Margin="160.5,20,160.5,0" VerticalAlignment="Top" Source="Rectangle.jpg">
+            <Image.OpacityMask>
+                <ImageBrush ImageSource="Rectangle.jpg" Stretch="Uniform"/>
+            </Image.OpacityMask>
+        </Image>
+        <Label Content="Länge" HorizontalAlignment="Left" Height="37" Margin="185,105,0,0" VerticalAlignment="Top" Width="125" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Label Content="Stärke" HorizontalAlignment="Left" Height="37" Margin="317,55,0,0" VerticalAlignment="Top" Width="125" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Label Content="Breite" HorizontalAlignment="Left" Height="37" Margin="90,20,0,0" VerticalAlignment="Top" Width="125" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+
+    </Grid>
+</Window>
