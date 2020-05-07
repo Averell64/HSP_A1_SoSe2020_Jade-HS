@@ -1,0 +1,13 @@
+C:\Users\warne\Desktop\Repositories\HSP_A1_SoSe2020_Jade-HS\Verdoppelungsshit\Verdoppelungsshit\bin\Debug\netcoreapp3.1\Verdoppelungsshit.exe
+C:\Users\warne\Desktop\Repositories\HSP_A1_SoSe2020_Jade-HS\Verdoppelungsshit\Verdoppelungsshit\bin\Debug\netcoreapp3.1\Verdoppelungsshit.deps.json
+C:\Users\warne\Desktop\Repositories\HSP_A1_SoSe2020_Jade-HS\Verdoppelungsshit\Verdoppelungsshit\bin\Debug\netcoreapp3.1\Verdoppelungsshit.runtimeconfig.json
+C:\Users\warne\Desktop\Repositories\HSP_A1_SoSe2020_Jade-HS\Verdoppelungsshit\Verdoppelungsshit\bin\Debug\netcoreapp3.1\Verdoppelungsshit.runtimeconfig.dev.json
+C:\Users\warne\Desktop\Repositories\HSP_A1_SoSe2020_Jade-HS\Verdoppelungsshit\Verdoppelungsshit\bin\Debug\netcoreapp3.1\Verdoppelungsshit.dll
+C:\Users\warne\Desktop\Repositories\HSP_A1_SoSe2020_Jade-HS\Verdoppelungsshit\Verdoppelungsshit\bin\Debug\netcoreapp3.1\Verdoppelungsshit.pdb
+C:\Users\warne\Desktop\Repositories\HSP_A1_SoSe2020_Jade-HS\Verdoppelungsshit\Verdoppelungsshit\obj\Debug\netcoreapp3.1\Verdoppelungsshit.csprojAssemblyReference.cache
+C:\Users\warne\Desktop\Repositories\HSP_A1_SoSe2020_Jade-HS\Verdoppelungsshit\Verdoppelungsshit\obj\Debug\netcoreapp3.1\Verdoppelungsshit.csproj.CoreCompileInputs.cache
+C:\Users\warne\Desktop\Repositories\HSP_A1_SoSe2020_Jade-HS\Verdoppelungsshit\Verdoppelungsshit\obj\Debug\netcoreapp3.1\Verdoppelungsshit.AssemblyInfoInputs.cache
+C:\Users\warne\Desktop\Repositories\HSP_A1_SoSe2020_Jade-HS\Verdoppelungsshit\Verdoppelungsshit\obj\Debug\netcoreapp3.1\Verdoppelungsshit.AssemblyInfo.cs
+C:\Users\warne\Desktop\Repositories\HSP_A1_SoSe2020_Jade-HS\Verdoppelungsshit\Verdoppelungsshit\obj\Debug\netcoreapp3.1\Verdoppelungsshit.dll
+C:\Users\warne\Desktop\Repositories\HSP_A1_SoSe2020_Jade-HS\Verdoppelungsshit\Verdoppelungsshit\obj\Debug\netcoreapp3.1\Verdoppelungsshit.pdb
+C:\Users\warne\Desktop\Repositories\HSP_A1_SoSe2020_Jade-HS\Verdoppelungsshit\Verdoppelungsshit\obj\Debug\netcoreapp3.1\Verdoppelungsshit.genruntimeconfig.cache

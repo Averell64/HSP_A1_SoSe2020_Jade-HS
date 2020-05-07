@@ -38,6 +38,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
     <Reference Include="Microsoft.CSharp" />
@@ -48,22 +49,38 @@
     <Reference Include="System.Xaml">
       <RequiredTargetFramework>4.0</RequiredTargetFramework>
     </Reference>
+    <Reference Include="UIAutomationProvider" />
     <Reference Include="WindowsBase" />
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
+    <Reference Include="WindowsFormsIntegration" />
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="AusgabeHohlprofil_R.xaml.cs">
+      <DependentUpon>AusgabeHohlprofil_R.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="EingabeHohlprofil_R.xaml.cs">
+      <DependentUpon>EingabeHohlprofil_R.xaml</DependentUpon>
+    </Compile>
     <Compile Include="EingabeKreis.xaml.cs">
       <DependentUpon>EingabeKreis.xaml</DependentUpon>
     </Compile>
     <Compile Include="AusgabeKreis.xaml.cs">
       <DependentUpon>AusgabeKreis.xaml</DependentUpon>
     </Compile>
+    <Page Include="AusgabeHohlprofil_R.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="AusgabeRechteck.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="EingabeHohlprofil_R.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -126,6 +143,9 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Rectangle.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Rund_Hohlprofil.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

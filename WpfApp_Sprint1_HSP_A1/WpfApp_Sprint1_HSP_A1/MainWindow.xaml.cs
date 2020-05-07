@@ -42,6 +42,9 @@ namespace WpfApp_Sprint1_HSP_A1
 
         private void Button_Click_2(object sender, RoutedEventArgs e)
         {
+            EingabeHohlprofil_R frmHohlprofil_R = new EingabeHohlprofil_R();
+            frmHohlprofil_R.Show();
+            this.Close();
 
         }
 

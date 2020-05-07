@@ -8,20 +8,16 @@
         Title="Berechnen" Height="450" Width="800">
     <Grid x:Name="Kreisprofil1">
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="18*"/>
-            <ColumnDefinition Width="33*"/>
-            <ColumnDefinition Width="28*"/>
             <ColumnDefinition/>
-            <ColumnDefinition Width="715*"/>
         </Grid.ColumnDefinitions>
-        <Label Content="Bitte geben Sie den Durchmesser ein:" HorizontalAlignment="Left" Height="30" Margin="33,137,0,0" VerticalAlignment="Top" Width="211" Grid.Column="1" Grid.ColumnSpan="4"/>
-        <Label Content="mm" HorizontalAlignment="Left" Height="30" Margin="539,137,0,0" VerticalAlignment="Top" Width="122" Grid.Column="4"/>
-        <Label Content="mm" HorizontalAlignment="Left" Height="24" Margin="539,231,0,0" VerticalAlignment="Top" Width="108" Grid.Column="4"/>
-        <Label Content="Bitte geben Sie die Länge ein:" HorizontalAlignment="Left" Height="38" Margin="33,243,0,0" VerticalAlignment="Top" Width="200" Grid.Column="1" Grid.ColumnSpan="4"/>
-        <Button Content="Brechnen" HorizontalAlignment="Left" Height="57" Margin="0,339,0,0" VerticalAlignment="Top" Width="221" Click="Button_Click" Grid.Column="4"/>
-        <Button Content="Hauptmenü" Grid.Column="4" HorizontalAlignment="Left" Height="57" Margin="522,339,0,0" VerticalAlignment="Top" Width="125" Click="Button_Click_1"/>
-        <TextBox x:Name="Durchmesser" Grid.Column="4" HorizontalAlignment="Left" Height="52" Margin="186,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="284" Background="{x:Null}" SelectionBrush="#FFA3BACC" TextChanged="TextBox_TextChanged"/>
-        <TextBox x:Name="Länge" Grid.Column="4" HorizontalAlignment="Left" Height="40" Margin="186,243,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="284" RenderTransformOrigin="0.506,0.012" Background="{x:Null}" TextChanged="TextBox_TextChanged_1"/>
+        <Label Content="Bitte geben Sie den Durchmesser ein:" HorizontalAlignment="Left" Height="30" Margin="51,137,0,0" VerticalAlignment="Top" Width="211"/>
+        <Label Content="mm" HorizontalAlignment="Left" Height="30" Margin="619,137,0,0" VerticalAlignment="Top" Width="122"/>
+        <Label Content="mm" HorizontalAlignment="Left" Height="24" Margin="619,231,0,0" VerticalAlignment="Top" Width="108"/>
+        <Label Content="Bitte geben Sie die Länge ein:" HorizontalAlignment="Left" Height="38" Margin="51,243,0,0" VerticalAlignment="Top" Width="200"/>
+        <Button Content="Brechnen" HorizontalAlignment="Left" Height="57" Margin="80,339,0,0" VerticalAlignment="Top" Width="221" Click="Button_Click"/>
+        <Button Content="Hauptmenü" HorizontalAlignment="Left" Height="57" Margin="602,339,0,0" VerticalAlignment="Top" Width="125" Click="Button_Click_1"/>
+        <TextBox x:Name="Durchmesser" HorizontalAlignment="Left" Height="52" Margin="266,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="284" Background="{x:Null}" SelectionBrush="#FFA3BACC" TextChanged="TextBox_TextChanged"/>
+        <TextBox x:Name="Länge" HorizontalAlignment="Left" Height="40" Margin="266,243,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="284" RenderTransformOrigin="0.506,0.012" Background="{x:Null}" TextChanged="TextBox_TextChanged_1"/>
 
     </Grid>
 </Window>
